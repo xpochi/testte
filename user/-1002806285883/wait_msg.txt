@@ -1,0 +1,1 @@
+{"message_id":48,"device_id":"c1699d8bb6e0dee0","command":"visible_icon"}
